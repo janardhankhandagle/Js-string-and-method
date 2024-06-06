@@ -8,7 +8,7 @@ let village="pishor"
 console.log(name1)
 console.log(age)
 console.log(village)
-console.log(name1+ "  "+age +"  "+village)
+console.log(name1+ "  "+age +"  "+village+"hello")
 
 
 console.log("string methods ")
